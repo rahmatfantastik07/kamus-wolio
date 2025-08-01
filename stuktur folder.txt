@@ -1,0 +1,41 @@
+KAMUS/
+│
+├── backend/
+│   ├── admin/
+│   │   ├── buat_admin.php
+│   │   ├── dashboard.php
+│   │   ├── edit.php
+│   │   ├── hapus.php
+│   │   ├── login.php
+│   │   ├── logout.php
+│   │   ├── proses_login.php
+│   │   ├── proses_upload.php
+│   │   ├── style.css
+│   │   ├── tambah.php
+│   │   └── upload.php
+│   │
+│   ├── api/
+│   │   ├── cari_kata.php
+│   │   ├── get_kata.php
+│   │   └── kata_hari_ini.php
+│   │
+│   └── config.php
+│
+├── database/
+│       └── kamus.sql│   
+│
+├── frontend/
+│   ├── images/
+│   ├── diskusi.php
+│   ├── footer.php
+│   ├── hak-cipta.php
+│   ├── index.php
+│   ├── instansi.php
+│   ├── kata-pengantar.php
+│   ├── keterangan.php
+│   ├── komentar.txt
+│   ├── navbar.php
+│   ├── penyusun.php
+│   ├── prakata.php
+│   ├── script.js
+│   └── style.css
